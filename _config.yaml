@@ -1,5 +1,0 @@
-title: "Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer"
-description: "Code coming soon"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://diffusionmms.github.io" # the base hostname & protocol for your site
-theme: minima
